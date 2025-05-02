@@ -1,4 +1,6 @@
 # Next.js Full Stack App – App Router, Auth.js, MongoDB, SSR & CSR
+![Projekt Screenshot](https://github.com/ramazanozguven/06_Next.js-Full-Stack-App/blob/ebb055483ddb832da41abdbb74ff5cfe56c27ef0/Screenschot%20des%20Projekt.png?raw=true)
+
 
 ## 📝 Zusammenfassung
 
